@@ -1,0 +1,10 @@
+/* switch
+http://javascript.ru/switch
+
+Есть переменная result = ''
+Есть функция func(a, b)
+if a - не передали то result увеличить на 'not;'
+if a = 1 - то result увеличить на '++'
+if a = 2 - то result увеличить на b (или 0) ''
+if a = 3 - то result увеличить на b (или 0) '==b'
+*/
